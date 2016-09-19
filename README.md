@@ -3,6 +3,10 @@ Autor: Guillermo Antonio Cuamea Telles
 Test de Sistema de Control de Inventarios
 para COTecnologias
 
+Utilizando para Backend: Framework Codeigniter.
+                Frontend: Bootstrap.
+                BaseDatos: MySQL.
+
 Base de Datos:
   -Para el buen funcionamiento del sistema, es necesario exportar las tablas que se encuentran en 'inventario.sql'
    la cual se encuentra en la carpeta 'ControlInventario/BD'.
